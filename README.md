@@ -1,10 +1,11 @@
 # Instructions
 
 To run the project:
-  1. Download and import the **Number_Reader.py** file into your IDE (i.e. Pycharm)
-  2. Download the import the number images from the **Digits** folder (**MAKE SURE TO CHANGE THE FILE PATHWAY IN YOUR "Number_Reader.py" file** OTHERWISE THE PROGRAM WON"T EXECUTE!!!)
-  3. Enjoy!!
-  4. The Number_Reader_Model is just attached for the sake of reference
+  1. Make sure you have all the required libraries for python installed (i.e. Pytorch, Numpy, Matlibplot, Tensorflow, CV2, Keras)
+  2. Download and import the **Number_Reader.py** file into your IDE (i.e. Pycharm)
+  3. Download the import the number images from the **Digits** folder (**MAKE SURE TO CHANGE THE FILE PATHWAY IN YOUR "Number_Reader.py" file** OTHERWISE THE PROGRAM WON"T EXECUTE!!!)
+  4. Enjoy!!
+  5. The Number_Reader_Model is just attached for the sake of reference
 
 
 To add your own image samples:
