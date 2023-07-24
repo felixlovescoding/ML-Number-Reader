@@ -1,7 +1,7 @@
 # Instructions
 
 To run the project:
-  1. Make sure you have all the required libraries for python installed (i.e. Pytorch, Numpy, Matlibplot, Tensorflow, CV2, Keras)
+  1. Make sure you have all the required python libraries for this project installed (i.e. Pytorch, Numpy, Matlibplot, Tensorflow, CV2, Keras)
   2. Download and import the **Number_Reader.py** file into your IDE (i.e. Pycharm)
   3. Download the import the number images from the **Digits** folder (**MAKE SURE TO CHANGE THE FILE PATHWAY IN YOUR "Number_Reader.py" file** OTHERWISE THE PROGRAM WON"T EXECUTE!!!)
   4. Enjoy!!
